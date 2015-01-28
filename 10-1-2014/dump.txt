@@ -1,0 +1,80 @@
+initial upper bound: 34.0771
+entering loop
+
+actual: 26.0771
+path through 0 time: 21.0297 est: 23.6603
+21.0297
+path through 1 time: 11.1803 est: 16.5142
+11.1803
+path through 2 time: 6.80074 est: 12.6317
+6.80074
+path through 3 time: 32.0039 est: 33.815
+32.0039
+entering loop
+2
+actual: 27.9555
+path through 0 time: 14.832 est: 17.4625
+16.0312
+path through 1 time: 10.8941 est: 16.228
+12.0934
+path through 3 time: 27.4364 est: 29.2475
+28.6356
+entering loop
+21
+actual: 29.5634
+path through 0 time: 18.1339 est: 20.7645
+15.2398
+repeat truncated
+path through 3 time: 25.3496 est: 27.1607
+22.4555
+entering loop
+1
+actual: 29.8496
+path through 0 time: 18.4201 est: 21.0507
+15.2398
+path through 2 time: 15.2737 est: 21.1047
+12.0934
+path through 3 time: 25.6359 est: 27.4469
+22.4555
+entering loop
+20
+actual: 19.9849
+path through 1 time: 22.0717 est: 27.4056
+15.2398
+repeat truncated
+path through 3 time: 20.7244 est: 22.5355
+13.8924
+entering loop
+210
+actual: 23.2868
+repeat truncated
+repeat truncated
+path through 3 time: 24.0263 est: 25.8374
+13.8924
+entering loop
+10
+actual: 23.573
+repeat truncated
+path through 2 time: 26.4513 est: 32.2823
+16.0312
+path through 3 time: 24.3125 est: 26.1236
+13.8924
+entering loop
+12
+actual: 36.4285
+path through 0 time: 23.3049 est: 25.9355
+16.0312
+repeat truncated
+path through 3 time: 35.9094 est: 37.7204
+28.6356
+entering loop
+0
+actual: 26.1827
+path through 1 time: 28.2695 est: 33.6033
+15.2398
+path through 2 time: 29.061 est: 34.8919
+16.0312
+path through 3 time: 26.9222 est: 28.7333
+13.8924
+entering loop
+19.9849

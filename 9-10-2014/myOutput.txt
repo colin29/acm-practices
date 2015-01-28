@@ -1,0 +1,16 @@
+inserted w: this
+inserted w: is
+inserted w: a
+inserted w: dictionary
+inserted w: that
+inserted w: we
+inserted w: will
+inserted w: use
+inserted w: for
+inserted w: us
+su is a misspelling of us
+as is a misspelling of is
+the is unknown
+dictonary is a misspelling of dictionary
+us is correct
+willl is a misspelling of will

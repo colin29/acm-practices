@@ -1,0 +1,7 @@
+B.cpp: In function 'int main()':
+B.cpp:71:18: error: expected ';' before ')' token
+ for(int i=0; i<=n){
+                  ^
+B.cpp:72:19: error: expected ';' before ')' token
+  for(int j=0; j<=m){
+                   ^
